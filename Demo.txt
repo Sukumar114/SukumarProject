@@ -1,1 +1,4 @@
 hello
+
+git commit-adds your changes bto local version control database.you have still not pushed these chnages to remote servver(github in this case)
+git log-shows the committed history 
